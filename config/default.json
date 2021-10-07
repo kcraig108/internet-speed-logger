@@ -4,7 +4,7 @@
     "listenHost": "0.0.0.0"
   },
   "db": {
-    "connectionString": mongosh "mongodb+srv://klusterkam.g8shk.mongodb.net/speedtest" --username kcraig108,
+    "connectionString": mongosh "mongodb+srv://klusterkam.g8shk.mongodb.net/InternetSpeedTest" --username kcraig108,
     "collection": "speedtest"
   },
   "speedtest": {

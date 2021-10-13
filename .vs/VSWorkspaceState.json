@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\db",
-    "\\views"
+    "\\db"
   ],
+  "SelectedNode": "\\run-speedtest.js",
   "PreviewInSolutionExplorer": false
 }
